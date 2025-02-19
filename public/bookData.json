@@ -1,0 +1,202 @@
+[
+	{
+		"id": "1",
+		"title": "Le Petit Prince",
+		"author": "Antoine de Saint-Exupéry",
+		"coverUrl": "/covers/le-petit-prince.jpg",
+		"difficulty": "beginner",
+		"description": "Un conte philosophique poétique sur les rencontres d'un jeune prince voyageant de planète en planète.",
+		"chapters": 27,
+		"audioUrl": "/audio/le-petit-prince.mp3"
+	},
+	{
+		"id": "2",
+		"title": "Les Aventures de Tintin",
+		"author": "Hergé",
+		"coverUrl": "/covers/les-avantures-de-tintin.jpg",
+		"difficulty": "intermediate",
+		"description": "Une série classique de bande dessinée franco-belge suivant les enquêtes d'un jeune reporter à travers le monde.",
+		"chapters": 20,
+		"audioUrl": "/audio/tintin.mp3"
+	},
+	{
+		"id": "3",
+		"title": "Harry Potter à l'école des sorciers",
+		"author": "J.K. Rowling",
+		"coverUrl": "/covers/l-ecole-de-sorcier.jpg",
+		"difficulty": "intermediate",
+		"description": "Le début des aventures d'un jeune sorcier découvrant son héritage magique dans une école ensorcelée.",
+		"chapters": 17,
+		"audioUrl": "/audio/harry-potter.mp3"
+	},
+	{
+		"id": "4",
+		"title": "Le Seigneur des Anneaux",
+		"author": "J.R.R. Tolkien",
+		"coverUrl": "/covers/le-seigneir-des-anneaux.jpg",
+		"difficulty": "advanced",
+		"description": "Une épopée fantasy suivante la quête pour détruire un anneau maléfique dans un monde peuplé de créatures mythiques.",
+		"chapters": 62,
+		"audioUrl": "/audio/lotr.mp3"
+	},
+	{
+		"id": "5",
+		"title": "1984",
+		"author": "George Orwell",
+		"coverUrl": "/covers/1984.jpg",
+		"difficulty": "advanced",
+		"description": "Une dystopie glaçante dépeignant une société totalitaire sous surveillance permanente.",
+		"chapters": 23,
+		"audioUrl": "/audio/1984.mp3"
+	},
+	{
+		"id": "6",
+		"title": "Vingt Mille Lieues sous les mers",
+		"author": "Jules Verne",
+		"coverUrl": "/covers/20000-lieues.jpg",
+		"difficulty": "intermediate",
+		"description": "Une aventure sous-marine captivante à bord du mystérieux Nautilus.",
+		"chapters": 47,
+		"audioUrl": "/audio/20000-lieues.mp3"
+	},
+	{
+		"id": "7",
+		"title": "L'Étranger",
+		"author": "Albert Camus",
+		"coverUrl": "/covers/letranger.jpg",
+		"difficulty": "advanced",
+		"description": "Un roman existentialiste explorant l'absurdité de la condition humaine à travers le regard détaché de Meursault.",
+		"chapters": 11,
+		"audioUrl": "/audio/letranger.mp3"
+	},
+	{
+		"id": "8",
+		"title": "Astérix le Gaulois",
+		"author": "René Goscinny",
+		"coverUrl": "/covers/asterix.jpg",
+		"difficulty": "beginner",
+		"description": "Des aventures humoristiques de guerriers gaulois résistant à l'envahisseur romain avec une potion magique.",
+		"chapters": 38,
+		"audioUrl": "/audio/asterix.mp3"
+	},
+	{
+		"id": "9",
+		"title": "Le Comte de Monte-Cristo",
+		"author": "Alexandre Dumas",
+		"coverUrl": "/covers/monte-cristo.jpg",
+		"difficulty": "intermediate",
+		"description": "Une histoire de trahison, de vengeance et de rédemption dans la France du XIXe siècle.",
+		"chapters": 117,
+		"audioUrl": "/audio/monte-cristo.mp3"
+	},
+	{
+		"id": "10",
+		"title": "Les Misérables",
+		"author": "Victor Hugo",
+		"coverUrl": "/covers/miserables.jpg",
+		"difficulty": "advanced",
+		"description": "Une fresque historique et sociale monumentale suivant le destin de Jean Valjean.",
+		"chapters": 365,
+		"audioUrl": "/audio/miserables.mp3"
+	},
+	{
+		"id": "11",
+		"title": "Le Rouge et le Noir",
+		"author": "Stendhal",
+		"coverUrl": "/covers/rouge-et-noir.jpg",
+		"difficulty": "advanced",
+		"description": "Une étude psychologique de l'ambition et de l'amour dans la société française post-révolutionnaire.",
+		"chapters": 75,
+		"audioUrl": "/audio/rouge-et-noir.mp3"
+	},
+	{
+		"id": "12",
+		"title": "Madame Bovary",
+		"author": "Gustave Flaubert",
+		"coverUrl": "/covers/madame-bovary.jpg",
+		"difficulty": "advanced",
+		"description": "Le portrait d'une femme insatisfaite cherchant à échapper à l'ennui de sa vie provinciale.",
+		"chapters": 35,
+		"audioUrl": "/audio/madame-bovary.mp3"
+	},
+	{
+		"id": "13",
+		"title": "Le Parfum",
+		"author": "Patrick Süskind",
+		"coverUrl": "/covers/parfum.jpg",
+		"difficulty": "intermediate",
+		"description": "L'histoire troublante d'un meurtrier obsessionnel doté d'un odorat surhumain.",
+		"chapters": 51,
+		"audioUrl": "/audio/parfum.mp3"
+	},
+	{
+		"id": "14",
+		"title": "Les Fourmis",
+		"author": "Bernard Werber",
+		"coverUrl": "/covers/fourmis.jpg",
+		"difficulty": "intermediate",
+		"description": "Un thriller scientifique mêlant aventure humaine et société des fourmis dans un parallèle surprenant.",
+		"chapters": 34,
+		"audioUrl": "/audio/fourmis.mp3"
+	},
+	{
+		"id": "15",
+		"title": "L'Alchimiste",
+		"author": "Paulo Coelho",
+		"coverUrl": "/covers/alchimiste.jpg",
+		"difficulty": "beginner",
+		"description": "Un conte initiatique sur la quête de soi et la poursuite de ses rêves à travers un voyage en Égypte.",
+		"chapters": 21,
+		"audioUrl": "/audio/alchimiste.mp3"
+	},
+	{
+		"id": "16",
+		"title": "Le Nom de la Rose",
+		"author": "Umberto Eco",
+		"coverUrl": "/covers/nom-de-la-rose.jpg",
+		"difficulty": "advanced",
+		"description": "Une énigme médiévale complexe dans une abbaye bénédictine remplie de secrets mortels.",
+		"chapters": 33,
+		"audioUrl": "/audio/nom-de-la-rose.mp3"
+	},
+	{
+		"id": "17",
+		"title": "Les Trois Mousquetaires",
+		"author": "Alexandre Dumas",
+		"coverUrl": "/covers/mousquetaires.jpg",
+		"difficulty": "intermediate",
+		"description": "Des intrigues politiques et des duels épiques dans la France du Cardinal de Richelieu.",
+		"chapters": 67,
+		"audioUrl": "/audio/mousquetaires.mp3"
+	},
+	{
+		"id": "18",
+		"title": "Le Vieil Homme et la Mer",
+		"author": "Ernest Hemingway",
+		"coverUrl": "/covers/vieil-homme.jpg",
+		"difficulty": "intermediate",
+		"description": "Une méditation poétique sur la lutte humaine contre les forces de la nature.",
+		"chapters": 10,
+		"audioUrl": "/audio/vieil-homme.mp3"
+	},
+	{
+		"id": "19",
+		"title": "Da Vinci Code",
+		"author": "Dan Brown",
+		"coverUrl": "/covers/da-vinci-code.jpg",
+		"difficulty": "beginner",
+		"description": "Un thriller ésotérique mêlant art, religion et énigmes historiques à travers Paris et Londres.",
+		"chapters": 105,
+		"audioUrl": "/audio/da-vinci-code.mp3"
+	},
+	{
+		"id": "20",
+		"title": "Hunger Games",
+		"author": "Suzanne Collins",
+		"coverUrl": "/covers/hunger-games.jpg",
+		"difficulty": "intermediate",
+		"description": "Une dystopie adolescente explorant la résistance face à un régime oppressif à travers des jeux télévisés mortels.",
+		"chapters": 27,
+		"audioUrl": "/audio/hunger-games.mp3"
+	}
+]
